@@ -1,0 +1,5 @@
+<map id="BufIsEmpty" name="BufIsEmpty">
+<area shape="rect" id="node1" title="Helper function to check if buffer is empty." alt="" coords="156,31,253,57"/>
+<area shape="rect" id="node2" href="$_usr_buffer_8c.html#a4416ad60de432f97915cb404a08bec91" title="Function to dequeue data from circular buffer." alt="" coords="5,5,108,32"/>
+<area shape="rect" id="node3" href="$_usr_buffer_8c.html#ab762179df0b20199554a782a4b0df3e8" title="Function which is used to peek into the circular buffer." alt="" coords="19,56,95,83"/>
+</map>

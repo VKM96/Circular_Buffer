@@ -1,0 +1,4 @@
+<map id="BufDequeue" name="BufDequeue">
+<area shape="rect" id="node1" title="Function to dequeue data from circular buffer." alt="" coords="5,5,108,32"/>
+<area shape="rect" id="node2" href="$_usr_buffer_8c.html#a2dcd5ea29ac422c5246afd2bd2e3c1cf" title="Helper function to check if buffer is empty." alt="" coords="156,5,253,32"/>
+</map>

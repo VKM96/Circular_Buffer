@@ -1,0 +1,4 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Function entry point, Initialization, enqueuing and dequeing demonstrated." alt="" coords="5,5,60,32"/>
+<area shape="rect" id="node2" href="$_usr_buffer_8h.html#a90ed28490199e2c7553c68e3f97e809b" title="Function for initalizing circular buffer." alt="" coords="108,5,173,32"/>
+</map>
