@@ -21,4 +21,4 @@ Circular buffer                      {#mainpage}
 
 **Permissions**
 
-1. PLease refer to the LICENSE file 
+1. Please refer to the LICENSE file 
